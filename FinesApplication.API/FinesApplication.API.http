@@ -1,0 +1,6 @@
+@FinesApplication.API_HostAddress = http://localhost:5153
+
+GET {{FinesApplication.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
